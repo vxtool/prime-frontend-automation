@@ -1,0 +1,9 @@
+{
+  "name": "structure-load-config",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-load-tasks": "^0.8.4",
+    "gulp-uglify": "^1.5.1"
+  }
+}
